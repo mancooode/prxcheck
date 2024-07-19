@@ -19,12 +19,6 @@ prxcheck is a Python-based proxy checker that verifies the functionality of HTTP
    cd prxcheck
    ```
 
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 To run prxcheck, use the following command:
